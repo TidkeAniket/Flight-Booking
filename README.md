@@ -1,1 +1,1 @@
-Flight fare is detected using ML model
+Flight fare is predicted using ML model
